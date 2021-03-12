@@ -1,6 +1,6 @@
 ### Hi there, This is MatheusGabrielCouto - :sunglasses:
 
-## I'm a Developer, Learner and a music lover!
+## I'm a Developer, Apprentice and I love to Play!
 - 🔭 I am currently studying to be a Full Stack developer!
 - ⚡ Fun fact: I love to watch thriller movies/series!
 

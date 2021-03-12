@@ -10,3 +10,5 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGabrielCouto&show_icons=true&locale=en&layout=compact" alt="MatheusGabrielCouto" /></p>

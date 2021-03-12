@@ -8,9 +8,8 @@
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/LakshyajitL)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshyajit/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/_c0de_r1der_/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-gabriel-pereira-do-couto-1248611b3/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/matheus_gabriel112/)&nbsp;
 
 ### Languages and Tools:
 
@@ -32,6 +31,4 @@
 
 <img align="left" alt="Elkay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusGabrielCouto&show_icons=true&hide_border=true" />
 
-[facebook]: https://www.facebook.com/profile.php?id=100004520854826
-[instagram]: https://www.instagram.com/matheus_gabriel112/
-[linkedin]: https://www.linkedin.com/in/matheus-gabriel-pereira-do-couto-1248611b3/
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGabrielCouto&show_icons=true&locale=en&layout=compact" alt="afermanx" />

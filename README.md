@@ -4,10 +4,13 @@
 - 🔭 I am currently studying to be a Full Stack developer!
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
+<br />
+
 ### Connect with me:
 
-
-<br />
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/LakshyajitL)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshyajit/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://www.instagram.com/_c0de_r1der_/)&nbsp;
 
 ### Languages and Tools:
 

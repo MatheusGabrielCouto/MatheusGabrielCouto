@@ -10,4 +10,4 @@
 
 </p>
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGabrielCouto&show_icons=true&locale=en&layout=compact" alt="MatheusGabrielCouto" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGabrielCouto&show_icons=true&locale=en&layout=compact" alt="MatheusGabrielCouto" /></p>

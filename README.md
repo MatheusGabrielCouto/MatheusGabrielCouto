@@ -1,7 +1,6 @@
 ### Hi there, This is MatheusGabrielCouto - :sunglasses:
 
-## I'm a Developer, Apprentice and I love to Play!
-- 🔭 I am currently studying to be a Full Stack developer!
+## I'm a front end developer I love to acquire knowledge!
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
 <br />

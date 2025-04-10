@@ -1,6 +1,6 @@
 ### Hi there, This is MatheusGabrielCouto - :sunglasses:
 
-## I'm a front end developer I love to acquire knowledge!
+## I'm a fullstack I love to acquire knowledge!
 - ⚡ Fun fact: I love to watch thriller movies/series!
 
 <br />

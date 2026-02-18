@@ -13,8 +13,3 @@
 ### My portifolio:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=vercel)](https://matheus-couto-portfolio.vercel.app/)&nbsp;
 
-<br />
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusGabrielCouto&show_icons=true&locale=en&layout=compact" alt="matheus" />

@@ -82,15 +82,17 @@ On the main banking application:
 
 ## 📊 GitHub Stats
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api?username=MatheusGabrielCouto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusGabrielCouto&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
+</p>
 
-<img 
-  height="170em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGabrielCouto&layout=compact&langs_count=7&theme=tokyonight"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGabrielCouto&layout=compact&theme=tokyonight&cache_seconds=1800" 
+  />
+</p>
 
 ---
 

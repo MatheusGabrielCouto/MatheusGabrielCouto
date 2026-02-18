@@ -80,16 +80,6 @@ On the main banking application:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats-git-master-matheusgabrielcoutos-projects.vercel.app/api?username=MatheusGabrielCouto&show_icons=true&theme=tokyonight)
-
-<img 
-  src="https://github-readme-stats-git-master-matheusgabrielcoutos-projects.vercel.app/api/top-langs/?username=MatheusGabrielCouto&layout=compact&theme=tokyonight" 
-/>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-gabriel-pereira-do-couto-1248611b3/)
